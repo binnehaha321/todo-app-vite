@@ -89,6 +89,7 @@ const Tasks = () => {
 		<Table
 			columns={columns}
 			dataSource={reduxTasks}
+			scroll={{ x: 900 }}
 		/>
 	)
 }

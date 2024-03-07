@@ -33,7 +33,7 @@ const AddTask = () => {
 		<Form
 			onFinish={handleAddTask}
 			layout='vertical'
-			className='my-3 mx-auto px-3 py-5 w-[500px] bg-slate-100 rounded-md shadow-md'
+			className='my-3 mx-auto px-3 py-5 w-full md:w-[500px] bg-slate-100 rounded-md shadow-md'
 			form={form}
 		>
 			<Form.Item
