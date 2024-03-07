@@ -28,23 +28,23 @@ Currently tech stacks:
 
 `Table`: Show your added tasks
 
-![Empty page](https://github.com/binnehaha321/todo-app-vite/blob/main/empty.png?raw=true)
+![empty](https://github.com/binnehaha321/todo-app-vite/assets/51439279/7d704028-6b12-4115-966f-b2b2fc1a0971)
 
 - After adding a new task, its status initially `Not completed`
 
-![Empty page](https://github.com/binnehaha321/todo-app-vite/blob/main/status.png?raw=true)
+![status](https://github.com/binnehaha321/todo-app-vite/assets/51439279/71bf3263-ff4a-4b35-a86d-369db13ccd5b)
 
 - You only can update when task has not been completed
 
-![Empty page](https://github.com/binnehaha321/todo-app-vite/blob/main/update.png?raw=true)
+![update](https://github.com/binnehaha321/todo-app-vite/assets/51439279/34ad6ab7-53a0-4bea-a45d-230442e9b14c)
 
 - You must comfirm before removing a task
 
-![Empty page](https://github.com/binnehaha321/todo-app-vite/blob/main/delete.png?raw=true)
+![delete](https://github.com/binnehaha321/todo-app-vite/assets/51439279/56e24e6f-81a0-40b1-81cf-5aa8a9a87598)
 
 - If your task is done, mark it as completed
 
-![Empty page](https://github.com/binnehaha321/todo-app-vite/blob/main/done.png?raw=true)
+![done](https://github.com/binnehaha321/todo-app-vite/assets/51439279/8c31b67d-a45a-4fb0-b7e9-e109ccbf78bc)
 
 #
 
